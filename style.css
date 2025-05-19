@@ -1,0 +1,85 @@
+body{
+
+    background-color: floralwhite;
+}
+h1{
+
+    font-family: italic,sans-serif;
+    color:blue;
+    background-color:plum;
+    padding-bottom: 30px;
+    font-size:70px;
+    
+}
+
+h2{
+
+    font-family: helvetica,sans-serif;
+    color:darkblue;
+}
+
+h5{
+
+    font-family: helvetica,sans-serif;
+}
+
+.shirts img{
+
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+
+.hoodies img{
+
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+
+.hats img{
+
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+
+.bags img{
+
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+
+a{
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+a:hover{
+
+    color: white;
+}
+
+p{
+    font-family: Arial, Helvetica,sans-serif;
+    color:black;
+    font-size:20px;
+
+}
+
+.description{
+
+    background-color:black;
+    padding-bottom:10px;
+}
+
+.description h2{
+
+    color:white;
+}
+
+.description p{
+
+    color:white;
+}
